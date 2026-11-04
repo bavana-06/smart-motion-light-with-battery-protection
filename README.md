@@ -74,7 +74,7 @@ The complete ESP32 source code is available in the following folder:
 
 The detailed project report is available here:
 
-[Download Project Report](SMART%20MOTIO%20LIGHT%20WITH%20BATTERY%20PROTECTION.pdf)
+[Download Project Report](SMART%20MOTION%20LIGHT%20WITH%20BATTERY%20PROTECTION.pdf)
 
 ## Applications
 
