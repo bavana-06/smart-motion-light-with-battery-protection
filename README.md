@@ -51,31 +51,31 @@ The system consists of the following functional units:
 ## Circuit Diagram
 
 The circuit diagram illustrates the connections between the ESP32, PIR sensor, relay module, battery and associated components.
-Circuit diagram.png
+![Circuit Diagram](circuit%20diagram/circuit%20diagram.png)
 
 ## Hardware Implementation
 
 The hardware prototype was assembled using the ESP32 controller, motion sensor, relay module and supporting electronic components.
 
-Hardware Prototype.png
+![Hardware Setup](hardware%20setup/Hardware%20Prototype.png)
 
 ## Final Output
 
 The final output demonstrates the motion-based automatic lighting operation.
 
-Output.png
+![Final Output](final%20output/output.png)
 
 ## Source Code
 
 The complete ESP32 source code is available in the following folder:
 
-smart_motion_light.ino
+[Arduino Source Code](smart_motion_light.ino)
 
 ## Project Documentation
 
 The detailed project report is available here:
 
-SMART MOTION LIGHT WITH BATTERY PROTECTION.pdf
+[Download Project Report](SMART%20MOTIO%20LIGHT%20WITH%20BATTERY%20PROTECTION.pdf)
 
 ## Applications
 
