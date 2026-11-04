@@ -51,19 +51,18 @@ The system consists of the following functional units:
 ## Circuit Diagram
 
 The circuit diagram illustrates the connections between the ESP32, PIR sensor, relay module, battery and associated components.
-![Circuit Diagram](circuit%20diagram/circuit%20diagram.png)
+![Circuit Diagram](Circuit%20diagram.png)
 
 ## Hardware Implementation
 
 The hardware prototype was assembled using the ESP32 controller, motion sensor, relay module and supporting electronic components.
-
-![Hardware Setup](hardware%20setup/Hardware%20Prototype.png)
+![Hardware Setup](Hardware%20Prototype.png)
 
 ## Final Output
 
 The final output demonstrates the motion-based automatic lighting operation.
 
-![Final Output](final%20output/output.png)
+![Final Output](Output.png)
 
 ## Source Code
 
